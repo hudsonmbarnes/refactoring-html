@@ -44,6 +44,35 @@ Within the HTML, I checked for anything unessessary and removed if so, added the
 Within the Stylesheet, I made sure the classes matched the updated HTML elements, made sure everything wasin sequential order, grouped together classes with the same attributes, and removed any unessessary classes.
 This was all to help with functionality for now and the future as well as organization.
 
+## Code Snippet
+
+```
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>website</title>
+</head>
+<!-- Added semantic element "header" -->
+<body>
+    <header>
+        <!-- Removed unessessary span tag and class in header -->
+        <h1>Horiseon</h1>
+        <div>
+            <ul>
+                <li>
+                    <a href="#search-engine-optimization">Search Engine Optimization</a>
+                </li>
+                <li>
+                    <a href="#online-reputation-management">Online Reputation Management</a>
+                </li>
+                <li>
+                    <a href="#social-media-marketing">Social Media Marketing</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+```
 
 ## Editors
 
