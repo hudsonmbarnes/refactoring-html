@@ -36,7 +36,7 @@ View on Visual Studio Code
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://hudsonmbarnes.github.io/refactoring-html/)
 
 ## What I did
 
