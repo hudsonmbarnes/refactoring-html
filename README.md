@@ -1,6 +1,8 @@
 # Refactoring HTML and CSS
 
+## Website Description
 
+This website gives image examples and helpful tips on subjects such as Online workspace optimization and Social Media marketing
 
 ## Getting Started
 
@@ -35,6 +37,12 @@ View on Visual Studio Code
 ## Deployed Link
 
 * [See Live Site](#)
+
+## What I did
+
+Within the HTML, I checked for anything unessessary and removed if so, added the missing alt tags to all images, made sure all links were functional and corrected them if not, and added semantic HTML elements.
+Within the Stylesheet, I made sure the classes matched the updated HTML elements, made sure everything wasin sequential order, grouped together classes with the same attributes, and removed any unessessary classes.
+This was all to help with functionality for now and the future as well as organization.
 
 
 ## Editors

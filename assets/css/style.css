@@ -40,10 +40,7 @@ header div ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
+/* Removed unessessary "a" class */
 
 p {
     font-size: 16px;
